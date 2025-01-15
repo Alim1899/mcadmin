@@ -52,7 +52,10 @@ function App() {
       const db = getDatabase(app);
       const auction = ref(db, auc);
       const snapshot = await get(auction);
-      dispatch({ type: "auctionSelected", payload: snapshot.val() });
+      dispatch({
+        type: "auctionSelected",
+        payload: Object.entries(snapshot.val()),
+      });
     } catch (error) {
       console.error("Error updating data:", error);
     }
@@ -67,10 +70,11 @@ function App() {
   const stateSelectionHandle = (e) => {
     e.preventDefault();
     const findByText = (textToFind) => {
-      return state.find((option) => option.text === textToFind);
+      return state.find((option) => option[0] === textToFind);
     };
     const selectedCity = findByText(e.target.value);
-    dispatch({ type: "stateSelected", payload: selectedCity.cities });
+
+    dispatch({ type: "stateSelected", payload: selectedCity[1].cities });
   };
   const citySelectionHandle = (e) => {
     e.preventDefault();
@@ -175,10 +179,18 @@ function App() {
               id="state"
               onChange={(e) => stateSelectionHandle(e)}
             >
-              {state &&
-                state.map((el) => {
-                  return <option key={el.text}>{el.text}</option>;
-                })}
+              {state && (
+                <>
+                  <option value="">Choose</option>
+                  {state.map((el) => {
+                    return (
+                      <option key={el[0]} value={el[1].text}>
+                        {el[1].text}
+                      </option>
+                    );
+                  })}
+                </>
+              )}
               {!state && <option>Choose</option>}
             </select>
           </label>
