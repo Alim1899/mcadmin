@@ -1,0 +1,1043 @@
+{
+  "Choose": {
+    "value": "",
+    "text": "Choose"
+  },
+  "AL": {
+    "value": "58",
+    "text": "AL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.690",
+        "text": "3101 DAVEY ALLISON BLVD BIRMINGHAM AL 35023 / 3101 DAVEY ALLISON BLVD BIRMINGHAM AL 35023",
+        "value": "931"
+      }
+    ]
+  },
+  "AZ": {
+    "value": "3",
+    "text": "AZ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.325",
+        "text": "GRAND TURISMO MOTERZ  4032 N 7TH STREET  PHOENIX ,AZ 85014 / GRAND TURISMO MOTERZ  4032 N 7TH STREET  PHOENIX ,AZ 85014",
+        "value": "979"
+      }
+    ]
+  },
+  "CA": {
+    "value": "4",
+    "text": "CA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.270",
+        "text": "\" 2348 Industrial Pkwy W, Hayward, CA 94545\" / \" 2348 Industrial Pkwy W, Hayward, CA 94545\"",
+        "value": "911"
+      },
+      {
+        "price": "PORT CA : 2.055",
+        "text": "1000 E LOMITA BLVD.  WILMINGTON CA 90744 / 1000 E LOMITA BLVD.  WILMINGTON CA 90744",
+        "value": "937"
+      },
+      {
+        "price": "PORT CA : 2.075",
+        "text": "11201 Pendleton St, Sun Valley, CA 91352 / 11201 Pendleton St, Sun Valley, CA 91352",
+        "value": "919"
+      },
+      {
+        "price": "PORT CA : 2.350",
+        "text": "1267 HWY 99 GRIDLEY CA 95948 / 1267 HWY 99 GRIDLEY CA 95948",
+        "value": "995"
+      },
+      {
+        "price": "PORT CA : 2.270",
+        "text": "12743 LLAGA AVE  SAN MARTIN CA 95046 / 12743 LLAGA AVE  SAN MARTIN CA 95046",
+        "value": "934"
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "43927 90TH STREET  LANCASTER CA 93535 / 43927 90TH STREET  LANCASTER CA 93535",
+        "value": "935"
+      },
+      {
+        "price": "PORT CA : 2.320",
+        "text": "792 CODONI AVE MODESTO CA 95357 / 792 CODONI AVE MODESTO CA 95357",
+        "value": "1336"
+      },
+      {
+        "price": "PORT CA : 2.340",
+        "text": "8650 ANTELOPE NORTH ROAD ANTELOPE CA 95843 / 8650 ANTELOPE NORTH ROAD ANTELOPE CA 95843",
+        "value": "960"
+      },
+      {
+        "price": "PORT CA : 2.335",
+        "text": "8780 FRUITRIDGE ROAD  SACRAMENTO CA 95826 / 8780 FRUITRIDGE ROAD  SACRAMENTO CA 95826",
+        "value": "936"
+      },
+      {
+        "price": "PORT CA : 2.320",
+        "text": "COPART SAN JOSE SUBLOT 2542 MONTEREY RD. GATE D SAN JOSE CA 95111 / COPART SAN JOSE SUBLOT 2542 MONTEREY RD. GATE D SAN JOSE CA 95111",
+        "value": "1118"
+      },
+      {
+        "price": "PORT CA : 2.340",
+        "text": "COPART VALLEJO SUBLOT 2744 GREEN ISLAND ROAD AMERICAN CANYON CA 94503 / COPART VALLEJO SUBLOT 2744 GREEN ISLAND ROAD AMERICAN CANYON CA 94503",
+        "value": "1106"
+      },
+      {
+        "price": "PORT CA : 2.195",
+        "text": "LA MEDIA SUBLOT 1369 RADAR RD SAN DIEGO CA 92154 / LA MEDIA SUBLOT 1369 RADAR RD SAN DIEGO CA 92154",
+        "value": "987"
+      },
+      {
+        "price": "PORT CA : 2.195",
+        "text": "OTAY SUBLOT 7277 OTAY MESA RD. SAN DIEGO CA 92154 / OTAY SUBLOT 7277 OTAY MESA RD. SAN DIEGO CA 92154",
+        "value": "986"
+      },
+      {
+        "price": "PORT CA : 2.130",
+        "text": "PERRIS SUBLOT 4332 N WEBSTER AVE PERRIS CA 92571 / PERRIS SUBLOT 4332 N WEBSTER AVE PERRIS CA 92571",
+        "value": "981"
+      }
+    ]
+  },
+  "CO": {
+    "value": "5",
+    "text": "CO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.270",
+        "text": "1031 S. ROYER STREET  COLORADO SPRINGS CO 80903 / 1031 S. ROYER STREET  COLORADO SPRINGS CO 80903",
+        "value": "941"
+      },
+      {
+        "price": "PORT TX : 2.210",
+        "text": "1528 10 RD MACK CO 81525 / 1528 10 RD MACK CO 81525",
+        "value": "957"
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "text": "247 WOOTEN ROAD COLORADO SPRINGS CO 80916 / 247 WOOTEN ROAD COLORADO SPRINGS CO 80916",
+        "value": "922"
+      },
+      {
+        "price": "PORT TX : 2.100",
+        "text": "560 AIR LN COLORADO SPRINGS CO 80929 / 560 AIR LN COLORADO SPRINGS CO 80929",
+        "value": "974"
+      },
+      {
+        "price": "PORT TX : 2.170",
+        "price2": "PORT CA : 2.550",
+        "text": "JB MECHANICAL 4205 W. 13TH ST PUEBLO CO 81005 / JB MECHANICAL 4205 W. 13TH ST PUEBLO CO 81005",
+        "value": "975"
+      },
+      {
+        "price": "PORT TX : 2.170",
+        "text": "NUNN SUBLOT 925 LONE TREE CIRCLE NUNN CO 80648 / NUNN SUBLOT 925 LONE TREE CIRCLE NUNN CO 80648",
+        "value": "956"
+      }
+    ]
+  },
+  "CT": {
+    "value": "6",
+    "text": "CT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.530",
+        "text": "525 CHRISTIAN LANE  BERLIN CT 06037 / 525 CHRISTIAN LANE  BERLIN CT 06037",
+        "value": "932"
+      },
+      {
+        "price": "PORT NJ : 1.550",
+        "text": "HARTFORD SOUTH 525 CHRISTIAN LANE NEW BRITAIN CT 06051 / HARTFORD SOUTH 525 CHRISTIAN LANE NEW BRITAIN CT 06051",
+        "value": "1315"
+      }
+    ]
+  },
+  "FL": {
+    "value": "8",
+    "text": "FL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT FL : 1.570",
+        "text": "1 SPEEDWAY BLVD HOMESTEAD, FL, 33035 / 1 SPEEDWAY BLVD HOMESTEAD, FL, 33035",
+        "value": "955"
+      },
+      {
+        "price": "PORT FL : 1.820",
+        "text": "12511 U.S. 301 THONOTOSASSA FL 33592 / 12511 U.S. 301 THONOTOSASSA FL 33592",
+        "value": "1472"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "12850 NW 27TH AVE. OPA LOCKA , FL 33054 / 12850 NW 27TH AVE. OPA LOCKA , FL 33054",
+        "value": "1447"
+      },
+      {
+        "price": "PORT GA : 1.570",
+        "text": "300 Setzer Rd, Jacksonville, FL 32218 / 300 Setzer Rd, Jacksonville, FL 32218",
+        "value": "950"
+      },
+      {
+        "price": "PORT FL : 1.645",
+        "text": "307 E Landstreet Rd, Orlando, FL 32824 / 307 E Landstreet Rd, Orlando, FL 32824",
+        "value": "918"
+      },
+      {
+        "price": "PORT FL : 1.820",
+        "text": "3800 NW 16TH BOULEVARD  OKEECHOBEE FL 34972 / 3800 NW 16TH BOULEVARD  OKEECHOBEE FL 34972",
+        "value": "953"
+      },
+      {
+        "price": "PORT FL : 1.820",
+        "text": "4545 COUNTY RD 835 CLEWISTON FL 33440 / 4545 COUNTY RD 835 CLEWISTON FL 33440",
+        "value": "1366"
+      },
+      {
+        "price": "PORT FL : 1.785",
+        "text": "COPART - DOVER SUBLOT 15237 DR. MLK JR BLVD DOVER FL 33527 / COPART - DOVER SUBLOT 15237 DR. MLK JR BLVD DOVER FL 33527",
+        "value": "963"
+      },
+      {
+        "price": "PORT FL : 1.780",
+        "text": "MULBERRY SUBLOT 4201 BONNIE MINE RD MULBERRY FL 33860 / MULBERRY SUBLOT 4201 BONNIE MINE RD MULBERRY FL 33860",
+        "value": "1342"
+      }
+    ]
+  },
+  "GA": {
+    "value": "9",
+    "text": "GA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.510",
+        "text": "401 EAST VERTIA STREET METTER GA 30439 / 401 EAST VERTIA STREET METTER GA 30439",
+        "value": "927"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "500 LYLE FIELD ROAD JEFFERSON GA 30549 / 500 LYLE FIELD ROAD JEFFERSON GA 30549",
+        "value": "1436"
+      },
+      {
+        "price": "PORT GA : 1.740",
+        "text": "6737 ROOSEVELT HWY FAIRBURN GA 30213 / 6737 ROOSEVELT HWY FAIRBURN GA 30213",
+        "value": "1349"
+      },
+      {
+        "price": "PORT GA : 1.630",
+        "text": "AUTO FORUM GROUP  5403 HWY 138 STE A  OXFORD ,GA 30054 / AUTO FORUM GROUP  5403 HWY 138 STE A  OXFORD ,GA 30054",
+        "value": "984"
+      },
+      {
+        "price": "PORT GA : 1.640",
+        "text": "DELTA CIRCLE 7290 DELTA CIRCLE AUSTELL GA 30168 / DELTA CIRCLE 7290 DELTA CIRCLE AUSTELL GA 30168",
+        "value": "967"
+      }
+    ]
+  },
+  "HI": {
+    "value": "10",
+    "text": "HI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 11.320",
+        "text": "177 CLARA ROAD TOTO GU 96927 / 177 CLARA ROAD TOTO GU 96927",
+        "value": "1450"
+      }
+    ]
+  },
+  "IA": {
+    "value": "11",
+    "text": "IA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "169 DAVENPORT SUBLOT 200 E 1ST ST DAVENPORT IA 52806 / 169 DAVENPORT SUBLOT 200 E 1ST ST DAVENPORT IA 52806",
+        "value": "1327"
+      },
+      {
+        "price": "PORT NJ : 1.890",
+        "text": "METRO 4300 DELAWARE AVENUE DES MOINES IA 50313 / METRO 4300 DELAWARE AVENUE DES MOINES IA 50313",
+        "value": "1375"
+      }
+    ]
+  },
+  "IL": {
+    "value": "13",
+    "text": "IL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.800",
+        "text": "31W 120 W BARTLETT RD BARTLETT IL 60103 / 31W 120 W BARTLETT RD BARTLETT IL 60103",
+        "value": "1311"
+      },
+      {
+        "price": "PORT NJ : 1.830",
+        "text": "99 RACEHORSE DRIVE EAST ST LOUIS IL 62205 / 99 RACEHORSE DRIVE EAST ST LOUIS IL 62205",
+        "value": "929"
+      },
+      {
+        "price": "PORT NJ : 1.840",
+        "text": "99 RACEHORSE DRIVE, ALORTON, ILLINOIS 62207 / 99 RACEHORSE DRIVE, ALORTON, ILLINOIS 62207",
+        "value": "923"
+      },
+      {
+        "price": "PORT NJ : 1.785",
+        "text": "VEH LOC @ WOODMAR SUBLOT HEIGHTS SUBLOT 1301 S STATE ST CHICAGO HEIGHTS IL 60411 / VEH LOC @ WOODMAR SUBLOT HEIGHTS SUBLOT 1301 S STATE ST CHICAGO HEIGHTS IL 60411",
+        "value": "994"
+      }
+    ]
+  },
+  "IN": {
+    "value": "14",
+    "text": "IN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "1535 E. 226TH ST CICERO IN 46034 / 1535 E. 226TH ST CICERO IN 46034",
+        "value": "962"
+      }
+    ]
+  },
+  "KS": {
+    "value": "15",
+    "text": "KS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.095",
+        "text": "KANSAS CITY SUBLOT A 6130 KANSAS AVE KANSAS CITY KS 66111 / KANSAS CITY SUBLOT A 6130 KANSAS AVE KANSAS CITY KS 66111",
+        "value": "989"
+      }
+    ]
+  },
+  "KY": {
+    "value": "16",
+    "text": "KY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "EARLINGTON SUBLOT 700 N SANDCUT ROAD EARLINGTON KY 42410 / EARLINGTON SUBLOT 700 N SANDCUT ROAD EARLINGTON KY 42410",
+        "value": "1353"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "GREENVILLE SUBLOT 5770 US HWY 62 W GREENVILLE KY 42345 / GREENVILLE SUBLOT 5770 US HWY 62 W GREENVILLE KY 42345",
+        "value": "980"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "LAWRENCEBURG SUBLOT 1051 INDUSTRIAL RD LAWRENCEBURG KY 40342 / LAWRENCEBURG SUBLOT 1051 INDUSTRIAL RD LAWRENCEBURG KY 40342",
+        "value": "978"
+      }
+    ]
+  },
+  "LA": {
+    "value": "17",
+    "text": "LA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.960",
+        "text": "48205 HIGHWAY 51 TICKFAW LA 70466 / 48205 HIGHWAY 51 TICKFAW LA 70466",
+        "value": "921"
+      }
+    ]
+  },
+  "MA": {
+    "value": "18",
+    "text": "MA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.615",
+        "text": "BEST BUY AUTO  131 WASHINGTON ST  ATTLEBORO ,MA 02703 / BEST BUY AUTO  131 WASHINGTON ST  ATTLEBORO ,MA 02703",
+        "value": "959"
+      },
+      {
+        "price": "PORT NJ : 1.625",
+        "text": "COPART - 053B 566 MAIN STREET HUDSON MA 01749 / COPART - 053B 566 MAIN STREET HUDSON MA 01749",
+        "value": "1091"
+      },
+      {
+        "price": "PORT NJ : 1.640",
+        "text": "COPART - ROWLEY 164 BOXFORD ROAD ROWLEY MA 01969 / COPART - ROWLEY 164 BOXFORD ROAD ROWLEY MA 01969",
+        "value": "976"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "MA - NORTH BOSTON 55R HIGH STREET BILLERICA , MA 01862 / MA - NORTH BOSTON 55R HIGH STREET BILLERICA , MA 01862",
+        "value": "1463"
+      }
+    ]
+  },
+  "MD": {
+    "value": "19",
+    "text": "MD",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.580",
+        "text": "11715 pulaski hwy white marsh md 21162 / 11715 pulaski hwy white marsh md 21162",
+        "value": "914"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "601 W PATAPSCO AVE BALTIMORE MD 21225 / 601 W PATAPSCO AVE BALTIMORE MD 21225",
+        "value": "915"
+      },
+      {
+        "price": "PORT NJ : 1.625",
+        "text": "FRUITLAND SUBLOT 626 S FRUITLAND BLVD FRUITLAND MD 21826 / FRUITLAND SUBLOT 626 S FRUITLAND BLVD FRUITLAND MD 21826",
+        "value": "1390"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Laurel Sublot 7131 VIRGINIA MANOR COURT LAUREL MD 20707 / Laurel Sublot 7131 VIRGINIA MANOR COURT LAUREL MD 20707",
+        "value": "1512"
+      }
+    ]
+  },
+  "ME": {
+    "value": "20",
+    "text": "ME",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "40 HOLMES ROAD SCARBOROUGH ME 04074 / 40 HOLMES ROAD SCARBOROUGH ME 04074",
+        "value": "1110"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "486 MAIN ROAD  ORONO ME 04473 / 486 MAIN ROAD  ORONO ME 04473",
+        "value": "940"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "53 WEST GRAY RD GRAY ME 04039 / 53 WEST GRAY RD GRAY ME 04039",
+        "value": "930"
+      }
+    ]
+  },
+  "MI": {
+    "value": "21",
+    "text": "MI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "WAYLAND MI 49348 / WAYLAND MI 49348",
+        "value": "1494"
+      }
+    ]
+  },
+  "MN": {
+    "value": "22",
+    "text": "MN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "10588 CENTRAL AVE NE BLAINE, MINNESOTA 55434 / 10588 CENTRAL AVE NE BLAINE, MINNESOTA 55434",
+        "value": "985"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "15932 JARVIS ST NE ELK RIVER MN 55330 / 15932 JARVIS ST NE ELK RIVER MN 55330",
+        "value": "1304"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "20798 US HIGHWAY 10 BIG LAKE MN 55309 / 20798 US HIGHWAY 10 BIG LAKE MN 55309",
+        "value": "970"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "2975 PARTRIDGE RD ROSEVILLE, MN, 55113 / 2975 PARTRIDGE RD ROSEVILLE, MN, 55113",
+        "value": "1309"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "329 BUNKER LAKE BLVD HAM LAKE MN 55304 / 329 BUNKER LAKE BLVD HAM LAKE MN 55304",
+        "value": "926"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "COPART FRIDLEY SUBLOT 3737 EAST RIVER ROAD FRIDLEY MN 55421 / COPART FRIDLEY SUBLOT 3737 EAST RIVER ROAD FRIDLEY MN 55421",
+        "value": "1079"
+      }
+    ]
+  },
+  "MO": {
+    "value": "23",
+    "text": "MO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.870",
+        "text": "1619 S GOLDEN AVE  SPRINGFIELD MO 65807 / 1619 S GOLDEN AVE  SPRINGFIELD MO 65807",
+        "value": "945"
+      },
+      {
+        "price": "PORT GA : 1.870",
+        "text": "1619 S Golden Ave, Springfield, MO 65807 / 1619 S Golden Ave, Springfield, MO 65807",
+        "value": "948"
+      },
+      {
+        "price": "PORT GA : 1.870",
+        "text": "1795 DUNN ROAD saint louis MO 63138 / 1795 DUNN ROAD saint louis MO 63138",
+        "value": "1411"
+      },
+      {
+        "price": "PORT GA : 1.870",
+        "text": "COPART BRIDGETON SUBLOT 3873 TAUSSIG AVENUE BRIDGETON MO 63044 / COPART BRIDGETON SUBLOT 3873 TAUSSIG AVENUE BRIDGETON MO 63044",
+        "value": "991"
+      }
+    ]
+  },
+  "NC": {
+    "value": "26",
+    "text": "NC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "2668 HIGHWAY 601 SOUTH MOCKSVILLE NC 27028 / 2668 HIGHWAY 601 SOUTH MOCKSVILLE NC 27028",
+        "value": "973"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "4019 NC HWY 72 W LUMBERTON NC 28360 / 4019 NC HWY 72 W LUMBERTON NC 28360",
+        "value": "916"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "7940 US HWY 601 S CONCORD NC 28025 / 7940 US HWY 601 S CONCORD NC 28025",
+        "value": "1298"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "text": "WINSTON-SALEM SUBLOT 6775 REYNOLDA RD PFAFFTOWN NC 27040 / WINSTON-SALEM SUBLOT 6775 REYNOLDA RD PFAFFTOWN NC 27040",
+        "value": "992"
+      }
+    ]
+  },
+  "ND": {
+    "value": "47",
+    "text": "ND",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.720",
+        "text": "1871 REVERE DRIVE BISMARCK ND 58501 / 1871 REVERE DRIVE BISMARCK ND 58501",
+        "value": "1335"
+      }
+    ]
+  },
+  "NJ": {
+    "value": "28",
+    "text": "NJ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.430",
+        "text": "154 TENNENT RD(7 DAYS FREE STO MORGANVILLE , NJ 07751 / 154 TENNENT RD(7 DAYS FREE STO MORGANVILLE , NJ 07751",
+        "value": "1397"
+      },
+      {
+        "price": "PORT NJ : 1.430",
+        "text": "253 HWY 34  MATAWAN ,NJ 07747 / 253 HWY 34  MATAWAN ,NJ 07747",
+        "value": "983"
+      },
+      {
+        "price": "PORT NJ : 1.430",
+        "text": "45 VICTORY PLAZA  SOUTH AMBOY ,NJ 08879 / 45 VICTORY PLAZA  SOUTH AMBOY ,NJ 08879",
+        "value": "993"
+      },
+      {
+        "price": "PORT NJ : 1.450",
+        "text": "COPART JOBSTOWN SUBLOT 304 NJ ROUTE 68 JOBSTOWN NJ 08041 / COPART JOBSTOWN SUBLOT 304 NJ ROUTE 68 JOBSTOWN NJ 08041",
+        "value": "1361"
+      },
+      {
+        "price": "PORT NJ : 1.495",
+        "text": "Yard 69 Glassboro 781 JACOB HARRIS AVENUE GLASSBORO NJ 08028 / Yard 69 Glassboro 781 JACOB HARRIS AVENUE GLASSBORO NJ 08028",
+        "value": "1386"
+      }
+    ]
+  },
+  "NV": {
+    "value": "30",
+    "text": "NV",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.320",
+        "text": "CHUCK LENZIE COURT ARROLIME NV 89165 / CHUCK LENZIE COURT ARROLIME NV 89165",
+        "value": "1454"
+      },
+      {
+        "price": "PORT CA : 2.280",
+        "text": "COPART CLAYTON SUBLOT 3441 N. CLAYTON ST. NORTH LAS VEGAS NV 89032 / COPART CLAYTON SUBLOT 3441 N. CLAYTON ST. NORTH LAS VEGAS NV 89032",
+        "value": "977"
+      }
+    ]
+  },
+  "NY": {
+    "value": "31",
+    "text": "NY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "text": "115 PORT WATSON ST CORTLAND , NY 13045 / 115 PORT WATSON ST CORTLAND , NY 13045",
+        "value": "1338"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "128 CENTRAL AVENUE  BROCTON NY 14716 / 128 CENTRAL AVENUE  BROCTON NY 14716",
+        "value": "928"
+      },
+      {
+        "price": "PORT NJ : 1.730",
+        "text": "2731 TOWN LINE ROAD ALDEN NY 14004 / 2731 TOWN LINE ROAD ALDEN NY 14004",
+        "value": "1406"
+      },
+      {
+        "price": "PORT NJ : 1.730",
+        "text": "2731 TOWN LINE ROAD ALDEN NY 14004 / 2731 TOWN LINE ROAD ALDEN NY 14004",
+        "value": "1407"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "580 Latin town Road Marlboro, NY 12542 / 580 Latin town Road Marlboro, NY 12542",
+        "value": "965"
+      },
+      {
+        "price": "PORT NJ : 1.625",
+        "text": "ALPHA AUTO  115 PORT WASTSON ST  CORTLAND ,NY 13045 / ALPHA AUTO  115 PORT WASTSON ST  CORTLAND ,NY 13045",
+        "value": "982"
+      },
+      {
+        "price": "PORT NJ : 1.610",
+        "text": "AMSTERDAM SUBLOT 5915 NY-30 AMSTERDAM NY 12010 / AMSTERDAM SUBLOT 5915 NY-30 AMSTERDAM NY 12010",
+        "value": "1380"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "COPART NEWBURGH SUBLOT 18 ROUTE 17K NEWBURGH NY 12550 / COPART NEWBURGH SUBLOT 18 ROUTE 17K NEWBURGH NY 12550",
+        "value": "988"
+      },
+      {
+        "price": "PORT NJ : 1.500",
+        "text": "YOUNGS SUBLOT 1871 RT 9W MILTON NY 12547 / YOUNGS SUBLOT 1871 RT 9W MILTON NY 12547",
+        "value": "964"
+      }
+    ]
+  },
+  "OK": {
+    "value": "33",
+    "text": "OK",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.135",
+        "text": "5329 S MADERA BLVD OKLAHOMA CITY OK 73129 / 5329 S MADERA BLVD OKLAHOMA CITY OK 73129",
+        "value": "1341"
+      },
+      {
+        "price": "PORT TX : 2.135",
+        "text": "LINDA WOOLDRIDGE 2829 SE 15TH OKLAHOMA CITY OK 73129 / LINDA WOOLDRIDGE 2829 SE 15TH OKLAHOMA CITY OK 73129",
+        "value": "971"
+      }
+    ]
+  },
+  "ON": {
+    "value": "65",
+    "text": "ON",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "OR": {
+    "value": "34",
+    "text": "OR",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.595",
+        "text": "3841 NORTH COLUMBIA BOULEVARD PORTLAND OR 97217 / 3841 NORTH COLUMBIA BOULEVARD PORTLAND OR 97217",
+        "value": "1506"
+      }
+    ]
+  },
+  "PA": {
+    "value": "35",
+    "text": "PA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "2962 LINCOLN WAY WEST CHAMBERSBURG PA 17202 / 2962 LINCOLN WAY WEST CHAMBERSBURG PA 17202",
+        "value": "1553"
+      },
+      {
+        "price": "PORT NJ : 1.490",
+        "text": "77 bristol rd chalfont pa 18914 / 77 bristol rd chalfont pa 18914",
+        "value": "912"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "795 SIPE ROAD YORK HAVEN PA 17370 / 795 SIPE ROAD YORK HAVEN PA 17370",
+        "value": "1433"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "83 EAST LANCASTER AVENUE MALVERN PA 19355 / 83 EAST LANCASTER AVENUE MALVERN PA 19355",
+        "value": "1484"
+      },
+      {
+        "price": "PORT NJ : 1.620",
+        "text": "GRANTVILLE PA 17028 / GRANTVILLE PA 17028",
+        "value": "1489"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "WEST MIFFLIN PA 15122 / WEST MIFFLIN PA 15122",
+        "value": "1491"
+      },
+      {
+        "price": "PORT NJ : 1.490",
+        "text": "Yard 026 2704 GERYVILLE PIKE PENNSBURG PA 18073 / Yard 026 2704 GERYVILLE PIKE PENNSBURG PA 18073",
+        "value": "1439"
+      }
+    ]
+  },
+  "SC": {
+    "value": "36",
+    "text": "SC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "120 Pine Plain Rd, Gaston, SC 29053 / 120 Pine Plain Rd, Gaston, SC 29053",
+        "value": "925"
+      },
+      {
+        "price": "PORT NJ : 1.800",
+        "price2": "PORT GA : 1.720",
+        "text": "1921 NAZARETH CHURCH RD  SPARTANBURG SC 29301 / 1921 NAZARETH CHURCH RD  SPARTANBURG SC 29301",
+        "value": "947"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "1921 nazareth church road, Spartanburg, SC, 29301 / 1921 nazareth church road, Spartanburg, SC, 29301",
+        "value": "909"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "700 SOUTH BOUND ROAD GASTON SC 29053 / 700 SOUTH BOUND ROAD GASTON SC 29053",
+        "value": "946"
+      },
+      {
+        "price": "PORT GA : 1.650",
+        "text": "COPART GREER SUBLOT 2465 HIGHWAY 101 SOUTH GREER SC 29651 / COPART GREER SUBLOT 2465 HIGHWAY 101 SOUTH GREER SC 29651",
+        "value": "972"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "SHA LIU 120 PINE PLAIN GASTON SC 29053 / SHA LIU 120 PINE PLAIN GASTON SC 29053",
+        "value": "968"
+      }
+    ]
+  },
+  "SD": {
+    "value": "49",
+    "text": "SD",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.470",
+        "text": "ALAN'S AUTO RECYCLING 1800 SEGER DRIVE RAPID CITY SD 57701 / ALAN'S AUTO RECYCLING 1800 SEGER DRIVE RAPID CITY SD 57701",
+        "value": "997"
+      }
+    ]
+  },
+  "TX": {
+    "value": "38",
+    "text": "TX",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.925",
+        "text": "14603 SPEEDWAY PARK VON ORMY TX 78073 / 14603 SPEEDWAY PARK VON ORMY TX 78073",
+        "value": "917"
+      },
+      {
+        "price": "PORT TX : 1.785",
+        "text": "1701 E BELT LINE RD  WILMER TX 75172 / 1701 E BELT LINE RD  WILMER TX 75172",
+        "value": "944"
+      },
+      {
+        "price": "PORT TX : 1.835",
+        "text": "17529 Hwy 6, College Station, TX 77845 / 17529 Hwy 6, College Station, TX 77845",
+        "value": "951"
+      },
+      {
+        "price": "PORT TX : 1.770",
+        "text": "2525 FM 565  BAYTOWN TX 77523 / 2525 FM 565  BAYTOWN TX 77523",
+        "value": "949"
+      },
+      {
+        "price": "PORT TX : 1.970",
+        "text": "351 VALLEY CHILI ROAD ANTHONY TX 79821 / 351 VALLEY CHILI ROAD ANTHONY TX 79821",
+        "value": "920"
+      },
+      {
+        "price": "PORT TX : 1.895",
+        "text": "7201 N GENERAL BRUCE DR TEMPLE, TEXAS 76501 / 7201 N GENERAL BRUCE DR TEMPLE, TEXAS 76501",
+        "value": "966"
+      },
+      {
+        "price": "PORT TX : 1.950",
+        "text": "950 BLUE MOUND RD WEST  HASLET TX 76052 / 950 BLUE MOUND RD WEST  HASLET TX 76052",
+        "value": "939"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "CHANNELVIEW 400 S SHELDON ROAD CHANNELVIEW TX 77530 / CHANNELVIEW 400 S SHELDON ROAD CHANNELVIEW TX 77530",
+        "value": "958"
+      },
+      {
+        "price": "PORT TX : 1.900",
+        "text": "DALTON OFFSITE 1000 DALTON LN AUSTIN, TX, 78742 / DALTON OFFSITE 1000 DALTON LN AUSTIN, TX, 78742",
+        "value": "954"
+      },
+      {
+        "price": "PORT TX : 1.740",
+        "text": "HARBORSIDE SUBLOT 5800 HARBORSIDE DR GALVESTON TX 77554 / HARBORSIDE SUBLOT 5800 HARBORSIDE DR GALVESTON TX 77554",
+        "value": "961"
+      },
+      {
+        "price": "PORT TX : 1.820",
+        "text": "TAYLOR TX 76574 / TAYLOR TX 76574",
+        "value": "1499"
+      }
+    ]
+  },
+  "UT": {
+    "value": "39",
+    "text": "UT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "170 W. CENTER STREET NORTH SALT LAKE UT 84054 / 170 W. CENTER STREET NORTH SALT LAKE UT 84054",
+        "value": "1303"
+      },
+      {
+        "price": "PORT CA : 2.425",
+        "text": "3586 NORTH 2000 WEST FARR WEST UT 84404 / 3586 NORTH 2000 WEST FARR WEST UT 84404",
+        "value": "924"
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "MAGNA SUBLOT 7370 W 2100 S MAGNA UT 84044 / MAGNA SUBLOT 7370 W 2100 S MAGNA UT 84044",
+        "value": "996"
+      }
+    ]
+  },
+  "VA": {
+    "value": "40",
+    "text": "VA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.645",
+        "text": "COPART YARD 194 4717 MASSAPONAX CHURCH ROAD FREDERICKSBURG VA 22408 / COPART YARD 194 4717 MASSAPONAX CHURCH ROAD FREDERICKSBURG VA 22408",
+        "value": "990"
+      }
+    ]
+  },
+  "VT": {
+    "value": "45",
+    "text": "VT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "2743 VT-22A  FAIR HAVEN VT 05743 / 2743 VT-22A  FAIR HAVEN VT 05743",
+        "value": "952"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "32 STAGE COACH ROAD  ORLEANS VT 05860 / 32 STAGE COACH ROAD  ORLEANS VT 05860",
+        "value": "942"
+      }
+    ]
+  },
+  "WA": {
+    "value": "41",
+    "text": "WA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 3.320",
+        "price2": "PORT WA : 2.570",
+        "text": "18515 PACIFIC AVE S SPANAWAY WA 98387 / 18515 PACIFIC AVE S SPANAWAY WA 98387",
+        "value": "1448"
+      }
+    ]
+  },
+  "WI": {
+    "value": "42",
+    "text": "WI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "1242 W LINCOLN AVE  WAUKESHA WI 53186 / 1242 W LINCOLN AVE  WAUKESHA WI 53186",
+        "value": "943"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "4825 SOUTH WHITNALL AVENUE CUDAHY WI 53110 / 4825 SOUTH WHITNALL AVENUE CUDAHY WI 53110",
+        "value": "1445"
+      },
+      {
+        "price": "PORT NJ : 1.810",
+        "text": "7213 HWY 41 CALEDONIA WI 53108 / 7213 HWY 41 CALEDONIA WI 53108",
+        "value": "969"
+      },
+      {
+        "price": "PORT NJ : 1.810",
+        "text": "YORKVILLE SUBLOT 2118 N SYLVANIA AVE STURTEVANT WI 53177 / YORKVILLE SUBLOT 2118 N SYLVANIA AVE STURTEVANT WI 53177",
+        "value": "1100"
+      }
+    ]
+  }
+}

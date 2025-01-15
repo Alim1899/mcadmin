@@ -1,0 +1,136 @@
+{
+  "Choose": {
+    "value": "",
+    "text": "Choose"
+  },
+  "AB": {
+    "value": "61",
+    "text": "AB",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CAN : 3.170",
+        "text": "CALGARY / CALGARY",
+        "value": "1083"
+      },
+      {
+        "price": "PORT CAN : 3.170",
+        "text": "EDMONTON / EDMONTON",
+        "value": "1084"
+      }
+    ]
+  },
+  "BC": {
+    "value": "69",
+    "text": "BC",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "MB": {
+    "value": "70",
+    "text": "MB",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "NB": {
+    "value": "63",
+    "text": "NB",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CAN : 2.470",
+        "text": "MONCTON / MONCTON",
+        "value": "1090"
+      }
+    ]
+  },
+  "NF": {
+    "value": "68",
+    "text": "NF",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "NS": {
+    "value": "62",
+    "text": "NS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CAN : 2.445",
+        "text": "HALIFAX / HALIFAX",
+        "value": "1085"
+      }
+    ]
+  },
+  "ON": {
+    "value": "65",
+    "text": "ON",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CAN : 2.420",
+        "text": "COOKSTOWN / COOKSTOWN",
+        "value": "1552"
+      },
+      {
+        "price": "PORT CAN : 2.270",
+        "text": "LONDON / LONDON",
+        "value": "1089"
+      },
+      {
+        "price": "PORT CAN : 2.370",
+        "text": "TORONTO / TORONTO",
+        "value": "1088"
+      }
+    ]
+  },
+  "QC": {
+    "value": "64",
+    "text": "QC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CAN : 1.830",
+        "text": "MONTREAL / MONTREAL",
+        "value": "1087"
+      }
+    ]
+  },
+  "SK": {
+    "value": "67",
+    "text": "SK",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  }
+}

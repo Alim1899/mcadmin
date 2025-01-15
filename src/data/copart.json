@@ -1,0 +1,1702 @@
+{
+  "Choose": {
+    "value": "",
+    "text": "Choose"
+  },
+  "AL": {
+    "value": "58",
+    "text": "AL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.630",
+        "text": "Eight Mile / MOBILE",
+        "value": "4"
+      },
+      {
+        "price": "PORT GA : 1.645",
+        "text": "Hueytown / BIRMINGHAM",
+        "value": "7"
+      },
+      {
+        "price": "PORT GA : 1.645",
+        "text": "Montgomery / Montgomery",
+        "value": "8"
+      },
+      {
+        "price": "PORT GA : 1.610",
+        "text": "NEWTON / AL - DOTHAN",
+        "value": "1313"
+      },
+      {
+        "price": "PORT GA : 1.645",
+        "text": "Tanner / TANNER",
+        "value": "9"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "THEODORE / MOBILE SOUTH",
+        "value": "1382"
+      },
+      {
+        "price": "PORT GA : 1.645",
+        "text": "W STEEL / BIRMINGHAM AL SUBLOT",
+        "value": "836"
+      }
+    ]
+  },
+  "AR": {
+    "value": "2",
+    "text": "AR",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.905",
+        "text": "Conway / LITTLE ROCK",
+        "value": "10"
+      },
+      {
+        "price": "PORT TX : 1.935",
+        "text": "Prairie Grove / FAYETTEVILLE",
+        "value": "12"
+      }
+    ]
+  },
+  "AZ": {
+    "value": "3",
+    "text": "AZ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.260",
+        "text": "Phoenix / PHOENIX",
+        "value": "16"
+      },
+      {
+        "price": "PORT CA : 2.260",
+        "text": "Phoenix / AZ - PHOENIX NORTH",
+        "value": "1502"
+      },
+      {
+        "price": "PORT CA : 2.320",
+        "text": "Tucson / TUCSON",
+        "value": "18"
+      }
+    ]
+  },
+  "CA": {
+    "value": "4",
+    "text": "CA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.080",
+        "text": "ADELANTO / ADELANTO",
+        "value": "1368"
+      },
+      {
+        "price": "PORT CA : 2.340",
+        "text": "American Canyon / NAPA",
+        "value": "1557"
+      },
+      {
+        "price": "PORT CA : 2.405",
+        "text": "ANDERSON / CA - REDDING",
+        "value": "1115"
+      },
+      {
+        "price": "PORT CA : 2.295",
+        "text": "ANTELOPE / ANTELOPE",
+        "value": "881"
+      },
+      {
+        "price": "PORT CA : 2.145",
+        "text": "Bakersfield / BAKERSFIELD",
+        "value": "21"
+      },
+      {
+        "price": "PORT CA : 2.090",
+        "text": "Colton / SAN BERNARDINO",
+        "value": "24"
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "Fresno / FRESNO",
+        "value": "28"
+      },
+      {
+        "price": "PORT CA : 2.355",
+        "text": "FRUITRIDGE / SACRAMENTO CA SUBLOT",
+        "value": "840"
+      },
+      {
+        "price": "PORT CA : 2.270",
+        "text": "Hayward / HAYWARD",
+        "value": "30"
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "LANCASTER / LANCASTER CA SUBLOT",
+        "value": "839"
+      },
+      {
+        "price": "PORT CA : 2.120",
+        "text": "Los Angeles / LOS ANGELES",
+        "value": "32"
+      },
+      {
+        "price": "PORT CA : 2.245",
+        "text": "Martinez / MARTINEZ",
+        "value": "33"
+      },
+      {
+        "price": "PORT CA : 2.120",
+        "text": "Mentone / MENTONE",
+        "value": "1462"
+      },
+      {
+        "price": "PORT CA : 2.130",
+        "text": "Rancho Cucamonga / RANCHO CUCAMONGA",
+        "value": "37"
+      },
+      {
+        "price": "PORT CA : 2.270",
+        "text": "Sacramento / SACRAMENTO",
+        "value": "38"
+      },
+      {
+        "price": "PORT CA : 2.210",
+        "text": "San Diego / SAN DIEGO",
+        "value": "39"
+      },
+      {
+        "price": "PORT CA : 2.245",
+        "text": "SAN MARTIN / San Jose",
+        "value": "40"
+      },
+      {
+        "price": "PORT CA : 2.180",
+        "text": "SANTA PAULA / SANTA PAULA CA SUBLOT",
+        "value": "842"
+      },
+      {
+        "price": "PORT CA : 2.070",
+        "text": "Sun Valley / Sun Valley SUBLOT",
+        "value": "817"
+      },
+      {
+        "price": "PORT CA : 2.245",
+        "text": "Vallejo / VALLEJO",
+        "value": "42"
+      },
+      {
+        "price": "PORT CA : 2.120",
+        "text": "Van Nuys / VAN NUYS",
+        "value": "43"
+      },
+      {
+        "price": "PORT CA : 2.070",
+        "text": "WILMINGTON / Long Beach",
+        "value": "841"
+      }
+    ]
+  },
+  "CO": {
+    "value": "5",
+    "text": "CO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "price2": "PORT CA : 2.420",
+        "text": "Brighton / DENVER",
+        "value": "45"
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "price2": "PORT CA : 2.470",
+        "text": "CLOUD / COLORADO SPRINGS CO SUBLOT",
+        "value": "827"
+      },
+      {
+        "price": "PORT TX : 2.110",
+        "price2": "PORT CA : 2.470",
+        "text": "COLORADO SPRINGS / COLORADO SPRINGS",
+        "value": "724"
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "price2": "PORT CA : 2.420",
+        "text": "Denver / Denver Central",
+        "value": "866"
+      },
+      {
+        "price": "PORT TX : 2.230",
+        "price2": "PORT CA : 2.570",
+        "text": "FORT LUPTON / FORT LUPTON",
+        "value": "852"
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "price2": "PORT CA : 2.445",
+        "text": "LITTLETON / CO - DENVER SOUTH",
+        "value": "850"
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "price2": "PORT CA : 2.470",
+        "text": "ROYER / COLORADO SPRINGS CO SUBLOT",
+        "value": "845"
+      }
+    ]
+  },
+  "CT": {
+    "value": "6",
+    "text": "CT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "EAST GRANBY / CT - HARTFORD SPRINGFIELD",
+        "value": "898"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "HARTFORD SOUTH / BERLIN CT SUBLOT",
+        "value": "837"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "New Britain / HARTFORD",
+        "value": "53"
+      }
+    ]
+  },
+  "DE": {
+    "value": "46",
+    "text": "DE",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "Seaford / SEAFORD",
+        "value": "57"
+      }
+    ]
+  },
+  "FL": {
+    "value": "8",
+    "text": "FL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT FL : 1.570",
+        "text": "APOPKA / ORLANDO NORTH",
+        "value": "813"
+      },
+      {
+        "price": "PORT FL : 1.820",
+        "text": "Arcadia / FL - PUNTA GORDA SOUTH",
+        "value": "1429"
+      },
+      {
+        "price": "PORT FL : 1.570",
+        "text": "Fort Pierce / FT. PIERCE",
+        "value": "61"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "Homestead / MIAMI SOUTH",
+        "value": "62"
+      },
+      {
+        "price": "PORT GA : 1.420",
+        "text": "Jacksonville / JACKSONVILLE EAST",
+        "value": "63"
+      },
+      {
+        "price": "PORT GA : 1.470",
+        "text": "JACKSONVILLE / JACKSONVILLE NORTH",
+        "value": "1458"
+      },
+      {
+        "price": "PORT GA : 1.420",
+        "text": "JACKSONVILLE, / JACKSONVILLE WEST",
+        "value": "725"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "MIAMI CENTRAL / MIAMI CENTRAL",
+        "value": "726"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "MIAMI NORTH / MIAMI NORTH",
+        "value": "73"
+      },
+      {
+        "price": "PORT FL : 1.870",
+        "text": "Midway / TALLAHASSEE",
+        "value": "65"
+      },
+      {
+        "price": "PORT FL : 1.620",
+        "text": "Ocala / OCALA",
+        "value": "68"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "Orlando / ORLANDO SOUTH",
+        "value": "71"
+      },
+      {
+        "price": "PORT FL : 1.770",
+        "text": "Punta Gorda / PUNTA GORDA",
+        "value": "74"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "Riverview / TAMPA SOUTH",
+        "value": "75"
+      },
+      {
+        "price": "PORT FL : 1.670",
+        "text": "West Palm Beach / WEST PALM BEACH",
+        "value": "77"
+      }
+    ]
+  },
+  "GA": {
+    "value": "9",
+    "text": "GA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.570",
+        "text": "Augusta / GA - AUGUSTA",
+        "value": "1426"
+      },
+      {
+        "price": "PORT GA : 1.570",
+        "text": "Austell / ATLANTA WEST",
+        "value": "80"
+      },
+      {
+        "price": "PORT GA : 1.650",
+        "text": "BYRON / GA - MACON",
+        "value": "889"
+      },
+      {
+        "price": "PORT GA : 1.650",
+        "text": "BYRON / GA - MACON",
+        "value": "890"
+      },
+      {
+        "price": "PORT GA : 1.550",
+        "text": "CARTERSVILLE / CARTERSVILLE",
+        "value": "728"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "CRASHEDTOYS ATLANTA / EAST POINT",
+        "value": "891"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "EAST POINT / GA - CRASHEDTOYS ATLANTA",
+        "value": "892"
+      },
+      {
+        "price": "PORT GA : 1.710",
+        "text": "Ellenwood / ATLANTA SOUTH",
+        "value": "81"
+      },
+      {
+        "price": "PORT GA : 1.660",
+        "text": "FAIRBURN / FAIRBURN",
+        "value": "1373"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "Gainesville / ATLANTA NORTH",
+        "value": "82"
+      },
+      {
+        "price": "PORT GA : 1.570",
+        "text": "Loganville / ATLANTA EAST",
+        "value": "84"
+      },
+      {
+        "price": "PORT GA : 1.510",
+        "text": "Savannah / SAVANNAH",
+        "value": "86"
+      },
+      {
+        "price": "PORT GA : 1.590",
+        "text": "Tifton / TIFTON",
+        "value": "87"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "VERTIA ST / METTER GA SUBLOT",
+        "value": "832"
+      }
+    ]
+  },
+  "HI": {
+    "value": "10",
+    "text": "HI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 4.350",
+        "text": "Kapolei / HONOLULU",
+        "value": "90"
+      },
+      {
+        "price": "PORT CA : 4.350",
+        "text": "KAPOLEI / HONOLULU",
+        "value": "1081"
+      }
+    ]
+  },
+  "IA": {
+    "value": "11",
+    "text": "IA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "Des Moines / DES MOINES",
+        "value": "91"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "ELDRIDGE, IA / CRASHEDTOYS ELDRIDGE",
+        "value": "732"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "ELDRIDGE, IA / DAVENPORT",
+        "value": "733"
+      }
+    ]
+  },
+  "ID": {
+    "value": "12",
+    "text": "ID",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.620",
+        "text": "Nampa / BOISE",
+        "value": "94"
+      }
+    ]
+  },
+  "IL": {
+    "value": "13",
+    "text": "IL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "ALORTON / Southern Illinois",
+        "value": "814"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "ALORTON SUBLOT / ALORTON",
+        "value": "828"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Cahokia Heights / Southern Illinois",
+        "value": "1428"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Chicago Heights / CHICAGO SOUTH",
+        "value": "97"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Elgin / CHICAGO NORTH",
+        "value": "98"
+      },
+      {
+        "price": "PORT NJ : 1.800",
+        "text": "Pekin / PEORIA",
+        "value": "103"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "ST LOUIS / LOUIS IL SUBLOT",
+        "value": "834"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Wheeling / WHEELING",
+        "value": "105"
+      }
+    ]
+  },
+  "IN": {
+    "value": "14",
+    "text": "IN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "CICERO / CICERO",
+        "value": "1329"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "DYER / DYER",
+        "value": "1372"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "FORT WAYNE / FORT WAYNE",
+        "value": "1300"
+      },
+      {
+        "price": "PORT NJ : 1.745",
+        "text": "HAMMOND / HAMMOND",
+        "value": "731"
+      },
+      {
+        "price": "PORT NJ : 1.795",
+        "text": "Hartford City / HARTFORD CITY",
+        "value": "107"
+      },
+      {
+        "price": "PORT NJ : 1.795",
+        "text": "Indianapolis / INDIANAPOLIS",
+        "value": "109"
+      }
+    ]
+  },
+  "KS": {
+    "value": "15",
+    "text": "KS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.020",
+        "text": "Kansas City / KANSAS CITY",
+        "value": "111"
+      },
+      {
+        "price": "PORT TX : 1.990",
+        "text": "Wichita / WICHITA",
+        "value": "113"
+      }
+    ]
+  },
+  "KY": {
+    "value": "16",
+    "text": "KY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "EARLINGTON / EARLINGTON",
+        "value": "1398"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "LAWRENCEBURG, KY / LEXINGTON WEST",
+        "value": "735"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Lexington / LEXINGTON EAST",
+        "value": "117"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Louisville / LOUISVILLE",
+        "value": "118"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Walton / WALTON",
+        "value": "120"
+      }
+    ]
+  },
+  "LA": {
+    "value": "17",
+    "text": "LA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.970",
+        "text": "FAIRGROUNDS  / TICKFAW LA SUBLOT",
+        "value": "826"
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Greenwell Springs / BATON ROUGE",
+        "value": "123"
+      },
+      {
+        "price": "PORT TX : 1.810",
+        "text": "New Orleans / NEW ORLEANS",
+        "value": "126"
+      },
+      {
+        "price": "PORT TX : 1.790",
+        "text": "Shreveport / SHREVEPORT",
+        "value": "127"
+      }
+    ]
+  },
+  "MA": {
+    "value": "18",
+    "text": "MA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Assonet / MA - FREETOWN",
+        "value": "1401"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "Mendon / SOUTH BOSTON",
+        "value": "129"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "North Billerica / NORTH BOSTON",
+        "value": "130"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "West Warren / WEST WARREN",
+        "value": "134"
+      }
+    ]
+  },
+  "MD": {
+    "value": "19",
+    "text": "MD",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "BALTIMORE / BALTIMORE EAST",
+        "value": "1310"
+      },
+      {
+        "price": "PORT NJ : 1.545",
+        "text": "Finksburg / BALTIMORE",
+        "value": "140"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "PATAPSCO / BALTIMORE MD SUBLOT",
+        "value": "820"
+      },
+      {
+        "price": "PORT NJ : 1.545",
+        "text": "Waldorf / WASHINGTON DC",
+        "value": "144"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "WHITE MARSH / WHITE MARSH SUBLOT",
+        "value": "819"
+      }
+    ]
+  },
+  "ME": {
+    "value": "20",
+    "text": "ME",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "GRAY / GRAY ME SUBLOT",
+        "value": "835"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Lyman / LYMAN",
+        "value": "147"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "ORONO / ORONO ME SUBLOT",
+        "value": "844"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Windham / WINDHAM",
+        "value": "1474"
+      }
+    ]
+  },
+  "MI": {
+    "value": "21",
+    "text": "MI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Davison / FLINT",
+        "value": "151"
+      },
+      {
+        "price": "PORT NJ : 2.195",
+        "text": "Kincheloe / KINCHELOE",
+        "value": "153"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Lansing / LANSING",
+        "value": "154"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "Portland / IONIA",
+        "value": "155"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Woodhaven / DETROIT",
+        "value": "157"
+      }
+    ]
+  },
+  "MN": {
+    "value": "22",
+    "text": "MN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.845",
+        "text": "Avon / ST. CLOUD",
+        "value": "158"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "BUNKER SUBLOT / HAM LAKE MN SUBLOT",
+        "value": "831"
+      },
+      {
+        "price": "PORT NJ : 1.845",
+        "text": "EAST BETHEL, MN / CRASHEDTOYS EAST BETHEL",
+        "value": "744"
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "Ham Lake / MINNEAPOLIS NORTH",
+        "value": "161"
+      }
+    ]
+  },
+  "MO": {
+    "value": "23",
+    "text": "MO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.870",
+        "text": "Bridgeton / ST. LOUIS",
+        "value": "165"
+      },
+      {
+        "price": "PORT GA : 1.770",
+        "text": "Columbia / COLUMBIA",
+        "value": "166"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "GOLDEN  / SPRINGFIELD MO SUBLOT",
+        "value": "849"
+      },
+      {
+        "price": "PORT GA : 1.870",
+        "text": "Rogersville / SPRINGFIELD",
+        "value": "168"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Sikeston / SIKESTON",
+        "value": "169"
+      }
+    ]
+  },
+  "MS": {
+    "value": "24",
+    "text": "MS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.850",
+        "text": "Florence / JACKSON",
+        "value": "173"
+      },
+      {
+        "price": "PORT TX : 1.940",
+        "text": "Grenada / Grenada",
+        "value": "1475"
+      }
+    ]
+  },
+  "MT": {
+    "value": "25",
+    "text": "MT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.720",
+        "text": "Billings / BILLINGS",
+        "value": "177"
+      },
+      {
+        "price": "PORT CA : 2.920",
+        "text": "Helena / Helena",
+        "value": "179"
+      }
+    ]
+  },
+  "NC": {
+    "value": "26",
+    "text": "NC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.615",
+        "text": "China Grove / CHINA GROVE",
+        "value": "184"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "CONCORD / CONCORD",
+        "value": "1117"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "text": "CONVERSE SUBLOT / LUMBERTON NC SUBLOT",
+        "value": "821"
+      },
+      {
+        "price": "PORT GA : 1.650",
+        "text": "Dunn / RALEIGH",
+        "value": "187"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "GASTONIA / GASTONIA",
+        "value": "1365"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "text": "KNIGHTDALE / NC - RALEIGH NORTH",
+        "value": "1359"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "text": "LUMBERTON  / LUMBERTON NC SUBLOT",
+        "value": "822"
+      },
+      {
+        "price": "PORT GA : 1.580",
+        "text": "Mebane / MEBANE",
+        "value": "190"
+      },
+      {
+        "price": "PORT GA : 1.550",
+        "text": "MOCKSVILLE / MOCKSVILLE",
+        "value": "887"
+      }
+    ]
+  },
+  "ND": {
+    "value": "47",
+    "text": "ND",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.420",
+        "text": "BISMARCK / BISMARCK",
+        "value": "1374"
+      }
+    ]
+  },
+  "NE": {
+    "value": "27",
+    "text": "NE",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.945",
+        "text": "Greenwood / LINCOLN",
+        "value": "192"
+      }
+    ]
+  },
+  "NH": {
+    "value": "44",
+    "text": "NH",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "CANDIA / CANDIA",
+        "value": "745"
+      }
+    ]
+  },
+  "NJ": {
+    "value": "28",
+    "text": "NJ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.495",
+        "text": "Glassboro / GLASSBORO EAST",
+        "value": "198"
+      },
+      {
+        "price": "PORT NJ : 1.430",
+        "text": "Hillsborough / SOMERVILLE",
+        "value": "199"
+      },
+      {
+        "price": "PORT NJ : 1.430",
+        "text": "Windsor / TRENTON",
+        "value": "202"
+      }
+    ]
+  },
+  "NM": {
+    "value": "29",
+    "text": "NM",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.220",
+        "text": "Albuquerque / ALBUQUERQUE",
+        "value": "203"
+      }
+    ]
+  },
+  "NV": {
+    "value": "30",
+    "text": "NV",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.240",
+        "text": "Las Vegas / LAS VEGAS",
+        "value": "205"
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "Reno / RENO",
+        "value": "207"
+      }
+    ]
+  },
+  "NY": {
+    "value": "31",
+    "text": "NY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.545",
+        "text": "Albany / ALBANY",
+        "value": "208"
+      },
+      {
+        "price": "PORT NJ : 1.730",
+        "text": "ANGOLA / BUFFALO",
+        "value": "903"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "BROCTON SUBLOT / BROCTON NY SUBLOT",
+        "value": "833"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "Brookhaven / LONG ISLAND",
+        "value": "210"
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "Central Square / SYRACUSE",
+        "value": "212"
+      },
+      {
+        "price": "PORT NJ : 1.645",
+        "text": "Leroy / ROCHESTER",
+        "value": "214"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "Marlboro / NEWBURGH",
+        "value": "215"
+      },
+      {
+        "price": "PORT NJ : 1.645",
+        "text": "Rochester / ROCHESTER",
+        "value": "217"
+      }
+    ]
+  },
+  "OH": {
+    "value": "32",
+    "text": "OH",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Barberton / AKRON",
+        "value": "1488"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Columbia Station / CLEVELAND WEST",
+        "value": "220"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Columbus / Columbus",
+        "value": "221"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "MORAINE, OH / DAYTON",
+        "value": "748"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "NORTHFIELD, OH / CLEVELAND EAST",
+        "value": "747"
+      }
+    ]
+  },
+  "OK": {
+    "value": "33",
+    "text": "OK",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Oklahoma City / OKLAHOMA CITY",
+        "value": "228"
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Tulsa / TULSA",
+        "value": "229"
+      }
+    ]
+  },
+  "OR": {
+    "value": "34",
+    "text": "OR",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.545",
+        "text": "Eugene / EUGENE",
+        "value": "232"
+      },
+      {
+        "price": "PORT CA : 2.595",
+        "text": "Portland / PORTLAND NORTH",
+        "value": "234"
+      },
+      {
+        "price": "PORT CA : 2.595",
+        "text": "Woodburn / PORTLAND SOUTH",
+        "value": "235"
+      }
+    ]
+  },
+  "PA": {
+    "value": "35",
+    "text": "PA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Adamsburg / PITTSBURGH EAST",
+        "value": "236"
+      },
+      {
+        "price": "PORT NJ : 1.490",
+        "text": "CHALFONT, PA / PHILADELPHIA EAST-SUBLOT",
+        "value": "751"
+      },
+      {
+        "price": "PORT NJ : 1.645",
+        "text": "Chambersburg / CHAMBERSBURG",
+        "value": "239"
+      },
+      {
+        "price": "PORT NJ : 1.520",
+        "text": "Duryea / SCRANTON",
+        "value": "241"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Ebensburg / ALTOONA",
+        "value": "243"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Ellwood City / PITTSBURGH NORTH",
+        "value": "244"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "Grantville / HARRISBURG",
+        "value": "245"
+      },
+      {
+        "price": "PORT NJ : 1.490",
+        "text": "Pennsburg / PHILADELPHIA",
+        "value": "246"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "West Mifflin / PITTSBURGH SOUTH",
+        "value": "248"
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "York Haven / YORK HAVEN",
+        "value": "249"
+      }
+    ]
+  },
+  "RI": {
+    "value": "48",
+    "text": "RI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.595",
+        "text": "EXETER / RI - EXETER",
+        "value": "864"
+      }
+    ]
+  },
+  "SC": {
+    "value": "36",
+    "text": "SC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.710",
+        "text": "Gaston / COLUMBIA",
+        "value": "251"
+      },
+      {
+        "price": "PORT GA : 1.470",
+        "text": "Greer / GREER",
+        "value": "252"
+      },
+      {
+        "price": "PORT GA : 1.480",
+        "text": "HARLEYVILLE / SC - NORTH CHARLESTON",
+        "value": "888"
+      },
+      {
+        "price": "PORT GA : 1.710",
+        "text": "PINE PLAIN / Gaston, SC SUBLOT",
+        "value": "830"
+      },
+      {
+        "price": "PORT GA : 1.720",
+        "text": "SPARTANBURG / SPARTANBURG SUBLOT",
+        "value": "818"
+      }
+    ]
+  },
+  "SD": {
+    "value": "49",
+    "text": "SD",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.470",
+        "text": "Rapid City / Rapid City",
+        "value": "1469"
+      }
+    ]
+  },
+  "TN": {
+    "value": "37",
+    "text": "TN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Lebanon / NASHVILLE",
+        "value": "257"
+      },
+      {
+        "price": "PORT GA : 1.820",
+        "text": "Madisonville / KNOXVILLE",
+        "value": "258"
+      },
+      {
+        "price": "PORT GA : 1.860",
+        "text": "Memphis / Memphis",
+        "value": "259"
+      }
+    ]
+  },
+  "TX": {
+    "value": "38",
+    "text": "TX",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.820",
+        "text": "Abilene / ABILENE",
+        "value": "261"
+      },
+      {
+        "price": "PORT TX : 1.970",
+        "text": "Amarillo / AMARILLO",
+        "value": "262"
+      },
+      {
+        "price": "PORT TX : 1.945",
+        "text": "ANDREWS / ANDREWS",
+        "value": "869"
+      },
+      {
+        "price": "PORT TX : 1.945",
+        "text": "ANDREWS / ANDREWS",
+        "value": "870"
+      },
+      {
+        "price": "PORT TX : 1.945",
+        "text": "Anthony / EL PASO",
+        "value": "263"
+      },
+      {
+        "price": "PORT TX : 2.020",
+        "text": "COPART HASLET / HASLET TX SUBLOT",
+        "value": "843"
+      },
+      {
+        "price": "PORT TX : 1.730",
+        "text": "Corpus Christi / CORPUS CHRISTI",
+        "value": "264"
+      },
+      {
+        "price": "PORT TX : 1.690",
+        "text": "DALLAS, TX / CRASHEDTOYS DALLAS",
+        "value": "755"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "Grand Prairie / DALLAS",
+        "value": "267"
+      },
+      {
+        "price": "PORT TX : 1.760",
+        "text": "Haslet / FT. WORTH",
+        "value": "268"
+      },
+      {
+        "price": "PORT TX : 1.620",
+        "text": "Houston / HOUSTON",
+        "value": "269"
+      },
+      {
+        "price": "PORT TX : 1.730",
+        "text": "Longview / LONGVIEW",
+        "value": "270"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "Lufkin / LUFKIN",
+        "value": "272"
+      },
+      {
+        "price": "PORT TX : 1.750",
+        "text": "Mercedes / MCALLEN",
+        "value": "273"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "New Braunfels / AUSTIN",
+        "value": "274"
+      },
+      {
+        "price": "PORT TX : 1.975",
+        "text": "RACETRACK / ORMY TX SUBLOT",
+        "value": "823"
+      },
+      {
+        "price": "PORT TX : 1.770",
+        "text": "SAN ANTONIO / SAN ANTONIO",
+        "value": "757"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "TEMPLE / WACO",
+        "value": "816"
+      },
+      {
+        "price": "PORT TX : 1.945",
+        "text": "VALLEY CHILI / ANTHONY TX SUBLOT",
+        "value": "825"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "WILMER / WILMER TX SUBLOT",
+        "value": "848"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "WILMER, TX / DALLAS SOUTH",
+        "value": "756"
+      }
+    ]
+  },
+  "UT": {
+    "value": "39",
+    "text": "UT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.370",
+        "text": "FARR WEST UT / OGDEN SUBLOT",
+        "value": "829"
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "MAGNA / UT - SALT LAKE CITY",
+        "value": "1314"
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "North Salt Lake / SALT LAKE CITY",
+        "value": "277"
+      }
+    ]
+  },
+  "VA": {
+    "value": "40",
+    "text": "VA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "CHARLES CITY / VA - RICHMOND EAST",
+        "value": "904"
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Chatham / DANVILLE",
+        "value": "282"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "FREDERICKSBURG / VA - FREDERICKSBURG",
+        "value": "902"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "FREDERICKSBURG / VA - FREDERICKSBURG",
+        "value": "901"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Hampton / HAMPTON",
+        "value": "285"
+      },
+      {
+        "price": "PORT NJ : 1.620",
+        "text": "Sandston / RICHMOND",
+        "value": "287"
+      }
+    ]
+  },
+  "VT": {
+    "value": "45",
+    "text": "VT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "ORLEANS / ORLEANS VT SUBLOT",
+        "value": "846"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "Rutland / RUTLAND",
+        "value": "1492"
+      }
+    ]
+  },
+  "WA": {
+    "value": "41",
+    "text": "WA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 3.170",
+        "price2": "PORT WA : 2.670",
+        "text": "Airway Heights / SPOKANE",
+        "value": "290"
+      },
+      {
+        "price": "PORT CA : 2.920",
+        "price2": "PORT WA : 2.570",
+        "text": "Arlington / NORTH SEATTLE",
+        "value": "291"
+      },
+      {
+        "price": "PORT CA : 2.920",
+        "price2": "PORT WA : 2.445",
+        "text": "Graham / GRAHAM",
+        "value": "292"
+      },
+      {
+        "price": "PORT CA : 2.920",
+        "price2": "PORT WA : 2.570",
+        "text": "Pasco / PASCO",
+        "value": "294"
+      }
+    ]
+  },
+  "WI": {
+    "value": "42",
+    "text": "WI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "APPLETON / APPLETON",
+        "value": "885"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "APPLETON / APPLETON",
+        "value": "884"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "Cudahy / MILWAUKEE",
+        "value": "298"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "Franklin / Milwaukee South",
+        "value": "1431"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "Madison / MADISON",
+        "value": "299"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "Mcfarland / WI - MADISON SOUTH",
+        "value": "1414"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "MILWAUKEE / MILWAUKEE NORTH",
+        "value": "1344"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "Sussex / Milwaukee",
+        "value": "301"
+      },
+      {
+        "price": "PORT NJ : 1.970",
+        "text": "WAUKESHA / WAUKESHA WI SUBLOT",
+        "value": "847"
+      }
+    ]
+  },
+  "WV": {
+    "value": "43",
+    "text": "WV",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "Hurricane / CHARLESTON",
+        "value": "303"
+      }
+    ]
+  },
+  "WY": {
+    "value": "60",
+    "text": "WY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.520",
+        "text": "CASPER / Casper, WY ",
+        "value": "851"
+      }
+    ]
+  }
+}

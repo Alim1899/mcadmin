@@ -1,0 +1,763 @@
+{
+  "Choose": {
+    "value": "",
+    "text": "Choose"
+  },
+  "AL": {
+    "value": "58",
+    "text": "AL",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "AZ": {
+    "value": "3",
+    "text": "AZ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "Manheim Arizona / Manheim Arizona",
+        "value": "715"
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "Manheim Phoenix / Manheim Phoenix",
+        "value": "610"
+      },
+      {
+        "price": "PORT CA : 2.320",
+        "text": "Manheim Tucson / Manheim Tucson",
+        "value": "611"
+      }
+    ]
+  },
+  "CA": {
+    "value": "4",
+    "text": "CA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.070",
+        "text": "Manheim California / Manheim California",
+        "value": "612"
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "Manheim Central California / Manheim Central California",
+        "value": "613"
+      },
+      {
+        "price": "PORT CA : 2.100",
+        "text": "Manheim Riverside / Manheim Riverside",
+        "value": "614"
+      },
+      {
+        "price": "PORT CA : 2.170",
+        "text": "Manheim San Diego / Manheim San Diego",
+        "value": "615"
+      },
+      {
+        "price": "PORT CA : 2.270",
+        "text": "Manheim San Francisco Bay / Manheim San Francisco Bay",
+        "value": "616"
+      },
+      {
+        "price": "PORT CA : 2.100",
+        "text": "Manheim Southern California / Manheim Southern California",
+        "value": "617"
+      }
+    ]
+  },
+  "CO": {
+    "value": "5",
+    "text": "CO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "text": "Manheim Denver / Manheim Denver",
+        "value": "618"
+      },
+      {
+        "text": "Manheim Littleton Colorado (tra) / Manheim Littleton Colorado (tra)",
+        "value": "619"
+      }
+    ]
+  },
+  "FL": {
+    "value": "8",
+    "text": "FL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.655",
+        "price2": "PORT FL : 1.720",
+        "text": "Manheim Central Florida / Manheim Central Florida",
+        "value": "620"
+      },
+      {
+        "price": "PORT GA : 1.630",
+        "price2": "PORT FL : 1.620",
+        "text": "Manheim Daytona Beach / Manheim Daytona Beach",
+        "value": "621"
+      },
+      {
+        "price": "PORT FL : 1.560",
+        "text": "Manheim Fort Lauderdale / Manheim Fort Lauderdale",
+        "value": "622"
+      },
+      {
+        "price": "PORT FL : 1.720",
+        "text": "Manheim Fort Myers / Manheim Fort Myers",
+        "value": "623"
+      },
+      {
+        "price": "PORT GA : 1.470",
+        "price2": "PORT FL : 1.820",
+        "text": "Manheim Jacksonville / Manheim Jacksonville",
+        "value": "624"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "price2": "PORT FL : 1.670",
+        "text": "Manheim Lakeland / Manheim Lakeland",
+        "value": "625"
+      },
+      {
+        "price": "PORT GA : 1.650",
+        "price2": "PORT FL : 1.720",
+        "text": "Manheim Orlando / Manheim Orlando",
+        "value": "626"
+      },
+      {
+        "price": "PORT GA : 1.690",
+        "price2": "PORT FL : 1.610",
+        "text": "Manheim Palm Beach / Manheim Palm Beach",
+        "value": "627"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "price2": "PORT FL : 1.740",
+        "text": "Manheim Pensacola / Manheim Pensacola",
+        "value": "628"
+      },
+      {
+        "price": "PORT GA : 1.670",
+        "price2": "PORT FL : 1.670",
+        "text": "Manheim St Pete / Manheim St Pete",
+        "value": "629"
+      },
+      {
+        "price": "PORT FL : 1.720",
+        "text": "Manheim Tampa / Manheim Tampa",
+        "value": "630"
+      }
+    ]
+  },
+  "GA": {
+    "value": "9",
+    "text": "GA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "Manheim Atlanta / Manheim Atlanta",
+        "value": "631"
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "Manheim Georgia / Manheim Georgia",
+        "value": "632"
+      },
+      {
+        "text": "Manheim Metro Atlanta / Manheim Metro Atlanta",
+        "value": "716"
+      },
+      {
+        "text": "Mycentralauction / Mycentralauction",
+        "value": "633"
+      }
+    ]
+  },
+  "HI": {
+    "value": "10",
+    "text": "HI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "text": "Manheim Hawaii / Manheim Hawaii",
+        "value": "717"
+      }
+    ]
+  },
+  "IL": {
+    "value": "13",
+    "text": "IL",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Manheim Arena Illinois / Manheim Arena Illinois",
+        "value": "634"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Manheim Chicago / Manheim Chicago",
+        "value": "635"
+      }
+    ]
+  },
+  "IN": {
+    "value": "14",
+    "text": "IN",
+    "cities": [
+      {
+        "text": "No City found",
+        "value": ""
+      }
+    ]
+  },
+  "KS": {
+    "value": "15",
+    "text": "KS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "text": "Manheim Wichita / Manheim Wichita",
+        "value": "718"
+      }
+    ]
+  },
+  "LA": {
+    "value": "17",
+    "text": "LA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Manheim Lafayette / Manheim Lafayette",
+        "value": "638"
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Manheim New Orleans / Manheim New Orleans",
+        "value": "639"
+      }
+    ]
+  },
+  "MA": {
+    "value": "18",
+    "text": "MA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "Manheim New England / Manheim New England",
+        "value": "720"
+      }
+    ]
+  },
+  "MD": {
+    "value": "19",
+    "text": "MD",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "Manheim Baltimore-Washington / Manheim Baltimore-Washington",
+        "value": "719"
+      }
+    ]
+  },
+  "MI": {
+    "value": "21",
+    "text": "MI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "Manheim Detroit / Manheim Detroit",
+        "value": "641"
+      },
+      {
+        "price": "PORT NJ : 1.770",
+        "text": "Manheim Flint (tra) / Manheim Flint (tra)",
+        "value": "642"
+      }
+    ]
+  },
+  "MN": {
+    "value": "22",
+    "text": "MN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Manheim Minneapolis / Manheim Minneapolis",
+        "value": "643"
+      },
+      {
+        "price": "PORT NJ : 1.895",
+        "text": "Manheim Northstar Minnesota / Manheim Northstar Minnesota",
+        "value": "644"
+      }
+    ]
+  },
+  "MO": {
+    "value": "23",
+    "text": "MO",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Manheim Kansas City / Manheim Kansas City",
+        "value": "645"
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "Manheim Springfield / Manheim Springfield",
+        "value": "646"
+      },
+      {
+        "price": "PORT NJ : 1.820",
+        "text": "Manheim St Louis / Manheim St Louis",
+        "value": "647"
+      }
+    ]
+  },
+  "MS": {
+    "value": "24",
+    "text": "MS",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.995",
+        "price2": "PORT GA : 1.670",
+        "text": "Manheim Mississippi / Manheim Mississippi",
+        "value": "648"
+      }
+    ]
+  },
+  "NC": {
+    "value": "26",
+    "text": "NC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.570",
+        "text": "Manheim Charlotte / Manheim Charlotte",
+        "value": "649"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "Manheim North Carolina / Manheim North Carolina",
+        "value": "650"
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "Manheim Statesville / Manheim Statesville",
+        "value": "651"
+      }
+    ]
+  },
+  "NE": {
+    "value": "27",
+    "text": "NE",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.920",
+        "text": "Manheim Omaha / Manheim Omaha",
+        "value": "652"
+      }
+    ]
+  },
+  "NJ": {
+    "value": "28",
+    "text": "NJ",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.445",
+        "text": "Manheim New Jersey / Manheim New Jersey",
+        "value": "653"
+      },
+      {
+        "price": "PORT NJ : 1.420",
+        "text": "Manheim Ny Metro Skyline / Manheim Ny Metro Skyline",
+        "value": "654"
+      }
+    ]
+  },
+  "NM": {
+    "value": "29",
+    "text": "NM",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.220",
+        "text": "Manheim New Mexico / Manheim New Mexico",
+        "value": "655"
+      }
+    ]
+  },
+  "NV": {
+    "value": "30",
+    "text": "NV",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.220",
+        "text": "Manheim Nevada / Manheim Nevada",
+        "value": "656"
+      }
+    ]
+  },
+  "NY": {
+    "value": "31",
+    "text": "NY",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.570",
+        "text": "Manheim Albany / Manheim Albany",
+        "value": "657"
+      },
+      {
+        "price": "PORT NJ : 1.475",
+        "text": "Manheim New York / Manheim New York",
+        "value": "658"
+      }
+    ]
+  },
+  "OH": {
+    "value": "32",
+    "text": "OH",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.720",
+        "text": "Manheim Cincinnati / Manheim Cincinnati",
+        "value": "660"
+      },
+      {
+        "price": "PORT NJ : 1.725",
+        "text": "Manheim Cleveland / Manheim Cleveland",
+        "value": "721"
+      },
+      {
+        "price": "PORT NJ : 1.725",
+        "text": "Manheim Ohio / Manheim Ohio",
+        "value": "661"
+      }
+    ]
+  },
+  "OK": {
+    "value": "33",
+    "text": "OK",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 2.120",
+        "text": "Manheim Tulsa / Manheim Tulsa",
+        "value": "662"
+      }
+    ]
+  },
+  "OR": {
+    "value": "34",
+    "text": "OR",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.445",
+        "text": "Manheim Portland / Manheim Portland",
+        "value": "663"
+      }
+    ]
+  },
+  "PA": {
+    "value": "35",
+    "text": "PA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.550",
+        "text": "Manheim Keystone Pennsylvania / Manheim Keystone Pennsylvania",
+        "value": "664"
+      },
+      {
+        "price": "PORT NJ : 1.550",
+        "text": "Manheim Pennsylvania / Manheim Pennsylvania",
+        "value": "665"
+      },
+      {
+        "price": "PORT NJ : 1.495",
+        "text": "Manheim Philadelphia / Manheim Philadelphia",
+        "value": "666"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Manheim Pittsburgh / Manheim Pittsburgh",
+        "value": "667"
+      }
+    ]
+  },
+  "PR": {
+    "value": "59",
+    "text": "PR",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "text": "Manheim Caribbean Subasta De Autos / Manheim Caribbean Subasta De Autos SUBLOT",
+        "value": "722"
+      }
+    ]
+  },
+  "SC": {
+    "value": "36",
+    "text": "SC",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.520",
+        "text": "Manheim Darlington / Manheim Darlington",
+        "value": "668"
+      },
+      {
+        "price": "PORT GA : 1.640",
+        "text": "Manheim Greer / Manheim Greer",
+        "value": "669"
+      }
+    ]
+  },
+  "TN": {
+    "value": "37",
+    "text": "TN",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT GA : 1.620",
+        "text": "Manheim Nashville / Manheim Nashville",
+        "value": "670"
+      }
+    ]
+  },
+  "TX": {
+    "value": "38",
+    "text": "TX",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Manheim Dallas / Manheim Dallas",
+        "value": "671"
+      },
+      {
+        "price": "PORT TX : 1.820",
+        "text": "Manheim Dallas-Fort Worth / Manheim Dallas-Fort Worth",
+        "value": "672"
+      },
+      {
+        "price": "PORT TX : 1.970",
+        "text": "Manheim El Paso / Manheim El Paso",
+        "value": "673"
+      },
+      {
+        "price": "PORT TX : 1.720",
+        "text": "Manheim Houston / Manheim Houston",
+        "value": "674"
+      },
+      {
+        "price": "PORT TX : 1.870",
+        "text": "Manheim San Antonio / Manheim San Antonio",
+        "value": "688"
+      },
+      {
+        "price": "PORT TX : 1.770",
+        "text": "Manheim South Houston / Manheim South Houston",
+        "value": "723"
+      },
+      {
+        "price": "PORT TX : 1.690",
+        "text": "Manheim Texas Hobby / Manheim Texas Hobby",
+        "value": "689"
+      }
+    ]
+  },
+  "UT": {
+    "value": "39",
+    "text": "UT",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.420",
+        "text": "Manheim Utah / Manheim Utah",
+        "value": "690"
+      }
+    ]
+  },
+  "VA": {
+    "value": "40",
+    "text": "VA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.640",
+        "text": "Manheim Fredericksburg / Manheim Fredericksburg",
+        "value": "691"
+      },
+      {
+        "price": "PORT NJ : 1.670",
+        "text": "Manheim Harrisonburg / Manheim Harrisonburg",
+        "value": "692"
+      },
+      {
+        "text": "Manheim Norfolk / Manheim Norfolk",
+        "value": "711"
+      }
+    ]
+  },
+  "WA": {
+    "value": "41",
+    "text": "WA",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT CA : 2.905",
+        "text": "Manheim Seattle / Manheim Seattle",
+        "value": "693"
+      }
+    ]
+  },
+  "WI": {
+    "value": "42",
+    "text": "WI",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 1.810",
+        "text": "Manheim Milwaukee / Manheim Milwaukee",
+        "value": "694"
+      }
+    ]
+  },
+  "WV": {
+    "value": "43",
+    "text": "WV",
+    "cities": [
+      {
+        "text": "Choose",
+        "value": ""
+      },
+      {
+        "price": "PORT NJ : 2.520",
+        "text": "Manheim Casper (TRA) / Manheim Casper (TRA)",
+        "value": "710"
+      }
+    ]
+  }
+}
