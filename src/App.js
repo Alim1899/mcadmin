@@ -3,13 +3,13 @@ import classes from "./App.module.css";
 import logo from "./logo.png";
 import app from "./firebaseConfig.js";
 import { useEffect, useReducer } from "react";
-import { getDatabase, get, ref, update } from "firebase/database";
-// import canada from "./data/canada.json";
-// import copart from "./data/copart.json";
-// import iaai from "./data/iaai.json";
-// import manhaim from "./data/canada.json";
-// import sub_copart from "./data/canada.json";
-// import sub_iaai from "./data/canada.json";
+import { getDatabase, get, ref, set, update } from "firebase/database";
+import canada from "./data/canada.json";
+import copart from "./data/copart.json";
+import iaai from "./data/iaai.json";
+import manhaim from "./data/manhaim.json";
+import sub_copart from "./data/sub_copart.json";
+import sub_iaai from "./data/sub_iaai.json";
 function normalizeString(str) {
   return str
     .toLowerCase() // Convert to lowercase
@@ -33,6 +33,8 @@ const reducer = (state, action) => {
       return { ...state, city: "", port: "", port2: "" };
     case "stateSelected":
       return { ...state, city: action.payload, port: "", port2: "" };
+    case "reset":
+      return { initialState };
     case "citySelected":
       return {
         ...state,
@@ -56,6 +58,7 @@ const reducer = (state, action) => {
 function App() {
   const [currentTarget, setCurrentTarget] = useState([]);
   const [selectedState, setSelectedState] = useState("");
+  const [showSpinner, setShowSpinner] = useState(false);
   const [{ auction, state, city, port, port2 }, dispatch] = useReducer(
     reducer,
     initialState
@@ -120,6 +123,7 @@ function App() {
   }, [auction]);
 
   const setPrice = async () => {
+    setShowSpinner(true);
     const cityIndex = city.findIndex((cit) => cit.text === currentTarget.text);
     if (city[cityIndex].price2 === "") {
       delete city[cityIndex].price2;
@@ -131,7 +135,11 @@ function App() {
           db,
           `${auction}/${selectedState}/cities/${cityIndex}`
         );
-        await update(dbRef, city[cityIndex]);
+        await update(dbRef, city[cityIndex]).then(() => {
+          dispatch({ type: "reset" });
+          alert("✅");
+          setShowSpinner(false);
+        });
       } catch (warn) {
         console.warn("warning! updating city in Firebase:", warn);
       }
@@ -142,6 +150,31 @@ function App() {
     currentTarget.price = port;
     currentTarget.price2 = port2;
   }, [port, port2, currentTarget]);
+
+  const reset = async (e) => {
+    e.preventDefault();
+    setShowSpinner(true);
+    try {
+      const db = getDatabase(app);
+      const copRef = ref(db, `/copart`);
+      const iaRef = ref(db, `/iaai`);
+      const canRef = ref(db, `/canada`);
+      const manRef = ref(db, `/manhaim`);
+      const subCopRef = ref(db, `/sub_copart`);
+      const subIaRef = ref(db, `/sub_iaai`);
+      await set(copRef, copart);
+      await set(iaRef, iaai);
+      await set(canRef, canada);
+      await set(manRef, manhaim);
+      await set(subCopRef, sub_copart);
+      await set(subIaRef, sub_iaai);
+      alert("RESETT✅");
+      setShowSpinner(false);
+    } catch (warn) {
+      console.warn("warning! updating city in Firebase:", warn);
+    }
+  };
+
   return (
     <div className={classes.main}>
       <div className={classes.form}>
@@ -231,6 +264,20 @@ function App() {
         >
           SET
         </button>
+        <button
+          className={classes.setBtn}
+          onClick={(e) => {
+            reset(e);
+          }}
+        >
+          RESET
+        </button>
+
+        {showSpinner && (
+          <div className={classes.spinnerContainer}>
+            <div className={classes.spinner}></div>
+          </div>
+        )}
       </div>
     </div>
   );
